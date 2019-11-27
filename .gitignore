@@ -22,3 +22,6 @@ DerivedDataCache/*
 
 # Assets in StarterContent
 Content/StarterContent/*
+
+# Ignore development builds virtions
+Release/*
